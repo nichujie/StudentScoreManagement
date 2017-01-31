@@ -1,3 +1,4 @@
 # StudentScoreManagement
-Used for manage and gather scores of students
+Used for managing and gathering scores of students
+
 Oh Yeah~
